@@ -1,6 +1,5 @@
 # Process-hollowing-64-bit
 
-// source.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Thanks to https://github.com/m0n0ph1/Process-Hollowing  for the initial code, it only worked on 32 bit architectures, i made it 64 bit compatible
 // both process , source and destination should be 64 bit
 
